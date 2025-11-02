@@ -20,8 +20,7 @@ Na aula de Hoje, Vamos Revisar tudo o que vimos até agorá
 
 Você se lembra de todas essas estruturas? porque hoje você vai precisar de todas elas! 
 
-Reservamos 5 Exercícios onde vocês vão aplicar tudo o que foi ensinado até o momento.
-
+Reservamos 3 Exercícios onde vocês vão aplicar tudo o que foi ensinado até o momento.
 
 # Exercício de Numero 1 (IMC)
 
@@ -138,7 +137,7 @@ linha de entrada e conte o número de valores positivos, negativos e zeros
 
  # Exercício 3 (RPG)  
 
- Você é um guerreiro que precisa recuperar o tesouro em um calabouço
+Você é um guerreiro que precisa recuperar o tesouro em um calabouço
 você se depara com um dragão enorme, e logo atraz dele, muitas moedas de ouro,
 diamantes e rubys. O dragão se posiciona para iniciar o combate.
 
